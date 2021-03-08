@@ -295,9 +295,30 @@ Project manager menjelaskan tentang user story dari client, problem yang dihadap
 - ui
 - feat
 
+#### Cara merge di github menggunakan fitur...
 
+- **Pull Request**
+- Issues
+- Actions
+- Code
+
+#### Apa yang dilakukan di github ketika kita akan mengerjakan sprint backlog?
+
+- **Membuat branch baru sesuai dengan nama sprint backlognya**
+- Bertanya ke project manager
+- Bertanya ke client
+- Minta ijin ke team
+
+#### Yang boleh merge dari develop ke branch master adalah...
+
+- **Team leader**
+- Client
+- CEO
+- Developer
 
 ### Aul - 03 Cara Penulisan Code untuk Team
+
+
 
 ### Meeting Pertengahan
 
