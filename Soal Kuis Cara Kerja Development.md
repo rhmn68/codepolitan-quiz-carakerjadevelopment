@@ -207,11 +207,95 @@ Project manager menjelaskan tentang user story dari client, problem yang dihadap
 - Do Run Your System
 - Don't Rush Your System
 
+#### Fungsi dari dokumentasi / comment line di codingan kita, adalah...
 
+- **Digunakan untuk mempermudah programmer lain mengerti maksud dari codingan tersebut**
+- Digunakan sebagai daftar kerjaan kita
+- Digunakan sebagai judul dari codingan kita
+- Digunakan untuk membuat judul dari unit test
+
+#### Setelah kita menyelesaikan kerjaan kita dan sesuai dengan accpetance criteria dari sprint backlog, apa yang harus kita lakukan?
+
+- **Menggeser card sprint backlog ke Sprint Complete**
+- Memberitahu satu persatu ke tim kita, bahwa kita sudah selasai
+- Post story di social media
+- Memberitahu client
+
+#### Apa yang harus kita lakukan jika ada spesifikasi yang tidak jelas dari kerjaan kita?
+
+- **Bertanya ke project manager ataupun ke team yang lain, untuk menunjang keberhasilan dari proyek kita**
+- Mengeluh
+- Post story di social media
+- Memberitahu client
 
 ### Aul - 01 Sprint Backlog Mobile App
 
+#### Di mobile kita membagi 2 task, yaitu...
+
+- **UI dan Fitur**
+- Backend dan Fitur
+- Fitur dan API
+- Backend dan Server
+
+#### Apa yang dilakukan di task UI mobile?
+
+- **Membuat desain aplikasi**
+- Membuat API
+- Mengambil data dari API
+- Membuat Fitur
+
+#### Aplikasi desain yang digunakan untuk membuat mockup aplikasi mobile pada proyek tersebut adalah...
+
+- **Figma**
+- AdobeXD
+- Sketch
+- Adobe Illustrator
+
+#### Setelah desain di mobile dibuat dan disetujui oleh pm dan client, maka langkah selanjutnya adalah...
+
+- **Menerapkan UI dari Figma ke Android Studio**
+- Membuat Fitur
+- Melihat API di Postman
+- Menerapkan Fitur sesuai acceptance criteria
+
+#### Setelah menerakan UI dari Figma, maka langkah selnjutnya adalah...
+
+- **Membuat fitur di UI tersebut**
+- Membuat desain
+- Berbicara dengan client
+- Diskusi dengan team
+
 ### Aul - 02 Cara Kerja di Github
+
+#### VCS (Version Control System) yang digunakan pada proyek tersebut adalah...
+
+- **Github**
+- Gitlab
+- Bitbucket
+- Miro
+
+#### Ketika pertama kali membuat repo kita harus membuat branches utama, yaitu...
+
+- **master dan develop**
+- ui-forgot-password
+- ui-login
+- **ui dan feat**
+
+#### Di branch mana source code aplikasi yang sedang di develop?
+
+- **develop**
+- master
+- ui
+- feat
+
+#### Setelah aplikasi rilis maka source code aplikasi akan disimpan di branch mana?
+
+- **master**
+- develop
+- ui
+- feat
+
+
 
 ### Aul - 03 Cara Penulisan Code untuk Team
 
