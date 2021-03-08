@@ -279,7 +279,7 @@ Project manager menjelaskan tentang user story dari client, problem yang dihadap
 - **master dan develop**
 - ui-forgot-password
 - ui-login
-- **ui dan feat**
+- ui dan feat
 
 #### Di branch mana source code aplikasi yang sedang di develop?
 
@@ -317,6 +317,27 @@ Project manager menjelaskan tentang user story dari client, problem yang dihadap
 - Developer
 
 ### Aul - 03 Cara Penulisan Code untuk Team
+
+#### Cara membuat nama variabel yang baik adalah...
+
+- **nama variabel harus dapat dimengerti oleh orang lain**
+- nama variabel dapat dimengerti hanya oleh tuhan dan diri kita sendiri
+- nama variabel hanya berufa satu huruf
+- nama variabel harus di enkripsi
+
+#### Dalam membuat code yang baik, kita harus membuat codenya untuk orang lain sehingga dapat terbaca oleh orang lain. Berikut ini adalah contoh penamaan variabel yang baik, kecuali...
+
+- **var a**
+- var mCurrentLocation
+- var isCheckIn
+- var map
+
+#### Hal-hal berikut ini dapat membantu team agar dapat dengan mudah memahami kodingan kita, kecuali...
+
+- Memberi nama variabel yang dapat dipahami oleh orang lain
+- Memberi nama function yang dapat dipahami oleh orang lain
+- Menambahkan comment line / dokumentasi
+- **Mengenkripsi nama variabel kita**
 
 
 
