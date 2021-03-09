@@ -1,15 +1,13 @@
 # Soal Kuis Cara Kerja Development
 
-## Development Team
+## Topik Development Team
 
 ### Penjelasan Product Backlog
-
-Project manager menjelaskan tentang user story dari client, problem yang dihadapi adalah salah satu perusahaan dan sekolah mengalami kendala proses absensi di masa pandemi, dikarenakan semua orang sedang wfh, jadi absen tidak terpantau, apakah karyawan atau siswanya sedang ada dmn?
 
 #### Apa itu MVP?
 
 - Most Valualable Product
-- **Minimum Valualable Product**
+- **Minimum Viable Product**
 - Most Valualable Player
 - Minimum Valualable Player
 
@@ -339,15 +337,116 @@ Project manager menjelaskan tentang user story dari client, problem yang dihadap
 - Menambahkan comment line / dokumentasi
 - **Mengenkripsi nama variabel kita**
 
-
-
 ### Meeting Pertengahan
 
-### Integration - 01 Backend Side
+#### Apa kendala yang dialami dari sisi mobile app side?
 
-### Integration - 02 Mobile App Side
+- **Kesulitan di geolocation bagian reverse dari lattitude dan longitude menjadi sebuah alamat**
+- Kesulitan menampilkan maps
+- Kesulitan mengambil photo
+- Kesulitan dalam menampilkan splash screen
+
+#### Data apa saja yang didapatkan ketika kita check-in ataupun check-out?
+
+- **lattitude, longitude, address**
+- username, password
+- fullname, email
+- toke, password, email
+
+#### Berikut ini adalah data yang didapatkan ketika check-in ataupun check-out, kecuali...
+
+- **username**
+- lattitude
+- longitude
+- address
+
+#### Penyedia layanan peta manakah yang digunakan di aplikas android ketika meeting pertengahan?
+
+- **Here Maps**
+- Github Maps
+- Gitlab Maps
+- Google Maps
+
+### Integration - Backend Side
+
+### Berapa jumlah API request yang dibuat oleh backend dev pada video integration back side
+
+- **9 Request**
+- 8 Request
+- 7 Request
+- 6 Request
+
+#### Pada API Register, data apa saja yang didapatkan ketika kita berhasil register?
+
+- **Message, Data, Meta**
+- Password
+- Username, Password
+- Jam check-in dan jam check-out
+
+#### Berikut ini API yang harus menggunakan token untuk menggunakannya, kecuali...
+
+- POST Attendance in
+- POST Attendance Out
+- POST Logout
+- **POST Register**
+
+#### Tipe token yang digunakan pada API tersebut, yaitu...
+
+- **Bearer token**
+- Block token
+- Tidak menggunakan token
+- Response token
+
+### Integration - Mobile App Side
+
+#### Penyedia layanan peta manakah yang digunakan di aplikasi android ketika di Integration - Mobile App Side ?
+
+- **Google Maps**
+- Post Maps
+- Github Maps
+- Apple Maps
 
 ### PM dan Team Mencoba Produk Bersama dan Memberi Feedback
 
+#### Penyedia layanan peta manakah yang digunakan di aplikasi android yang dipakai terakhir ?
+
+- **Google Maps**
+- Post Maps
+- Github Maps
+- Apple Maps
+
+#### Di akhir development apakah fitur mengambil photo di pakai ?
+
+- **Ya**
+- Tidak
+
+#### Bagaimana tahapan proses pembuatan aplikasi mobile?
+
+- **Desain -> Implementasi UI di Android -> Menambahkan Fitur**
+- Implementasi UI di Android -> Desain -> Menambahkan Fitur
+- Menambahkan Fitur -> Implementasi UI di Android -> Desain
+- Membuat proyek -> buka github -> buat aplikasi android
+
+#### Data apa saja yang didapatkan di server ketika client absen di mobile?
+
+- **Time, Name, Lattitude, Longitude, Photo**
+- Username, Password
+- Email
+- Id user, Company Name, Team Name
+
 ### Closing
+
+#### Berikut ini adalah tools-tools yang digunakan untuk kerja tim development, kecuali...
+
+- Trello
+- Github
+- Zoom
+- **Microsoft Word**
+
+#### Berikut ini tujuan dari minimum viable product (MVP), kecuali...
+
+- Mendapat Feedback dari user
+- Mengetahui aplikasi apakah akan bermanfaat atau bisa digunakan sebagai product
+- Dapat menyempurnakan produk kita
+- **Menjadi sebuah maha karya yang keren**
 
